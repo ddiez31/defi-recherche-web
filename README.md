@@ -24,5 +24,10 @@
 5) question: Que sont les Creatives Commons ?
 	- Ce sont des licences qui protègent les droits d'auteur et la libre circulation du contenu. (source: https://fr.wikipedia.org/wiki/Licence_Creative_Commons)
 
+6) question: Qui est Grace Hopper ?
+	- C'était une informaticienne de la marine américaine. Elle a conçu le 1er compilateur en 1951 et le langage COBOL en 1959. (source: https://fr.wikipedia.org/wiki/Grace_Hopper)
+
+
+
 
 
