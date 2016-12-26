@@ -27,7 +27,8 @@
 6) question: Qui est Grace Hopper ?
 	- C'était une informaticienne de la marine américaine. Elle a conçu le 1er compilateur en 1951 et le langage COBOL en 1959. (source: https://fr.wikipedia.org/wiki/Grace_Hopper)
 
-
+7) question: Qu'est-ce que Qwant ?
+	-C'est un moteur de recherche français garantissant la vie privé de l'utilisateur. (source: https://fr.wikipedia.org/wiki/Qwant)
 
 
 
