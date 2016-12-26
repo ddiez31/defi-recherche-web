@@ -17,7 +17,9 @@
 	- 255.255.255.0: masque d'un sous-réseau. (source: https://fr.wikipedia.org/wiki/Sous-r%C3%A9seau#Masque_de_sous-r.C3.A9seau)
 	- 127.0.0.1: localhost nom habituel qui désigne une interface logique de l’ordinateur local. (source: https://fr.wikipedia.org/wiki/Localhost)
 
-4)
+4) question: Que sont le copyright et le copyleft ?
+	- copyright: droit d'auteur, protection de la création de l'auteur (source: http://www.copyright01.com/%C2%A9-symbole-copyright)
+	- copyleft: gauche d'auteur, rendre une création libre de droit d'auteur. (source: https://www.gnu.org/copyleft/copyleft.fr.html)
 
 
 
