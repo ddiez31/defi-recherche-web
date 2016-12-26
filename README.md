@@ -30,5 +30,8 @@
 7) question: Qu'est-ce que Qwant ?
 	-C'est un moteur de recherche français garantissant la vie privé de l'utilisateur. (source: https://fr.wikipedia.org/wiki/Qwant)
 
+8) question: Qui est Steve Wozniak ?
+	- C'est un informaticien et électronicien américain cofondateur de la société Apple Computer. (source: https://fr.wikipedia.org/wiki/Steve_Wozniak)
+
 
 
