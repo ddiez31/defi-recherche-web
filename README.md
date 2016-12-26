@@ -25,13 +25,17 @@
 	- Ce sont des licences qui protègent les droits d'auteur et la libre circulation du contenu. (source: https://fr.wikipedia.org/wiki/Licence_Creative_Commons)
 
 6) question: Qui est Grace Hopper ?
-	- C'était une informaticienne de la marine américaine. Elle a conçu le 1er compilateur en 1951 et le langage COBOL en 1959. (source: https://fr.wikipedia.org/wiki/Grace_Hopper)
+	- Elle était une informaticienne de la marine américaine. Elle a conçu le 1er compilateur en 1951 et le langage COBOL en 1959. (source: https://fr.wikipedia.org/wiki/Grace_Hopper)
 
 7) question: Qu'est-ce que Qwant ?
 	-C'est un moteur de recherche français garantissant la vie privé de l'utilisateur. (source: https://fr.wikipedia.org/wiki/Qwant)
 
 8) question: Qui est Steve Wozniak ?
-	- C'est un informaticien et électronicien américain cofondateur de la société Apple Computer. (source: https://fr.wikipedia.org/wiki/Steve_Wozniak)
+	- Il est un informaticien et électronicien américain cofondateur de la société Apple Computer. (source: https://fr.wikipedia.org/wiki/Steve_Wozniak)
+
+9) question: D'où vient l'expression "bug informatique" ? Qui est Aaron Swartz ?
+	- bug informatique: origine provenant des insectes qui grillaient entre les lampes des vieux ordinateurs des années 1945. (source: http://www.presse-citron.net/anecdote-connaissez-vous-lorigine-du-bug-informatique/)
+	- Aaron Swartz: Il était un informaticien américain, écrivain, meneur politique et militant de l'Internet. (source: https://fr.wikipedia.org/wiki/Aaron_Swartz)
 
 
 
