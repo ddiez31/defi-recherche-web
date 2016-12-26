@@ -21,5 +21,8 @@
 	- copyright: droit d'auteur, protection de la création de l'auteur (source: http://www.copyright01.com/%C2%A9-symbole-copyright)
 	- copyleft: gauche d'auteur, rendre une création libre de droit d'auteur. (source: https://www.gnu.org/copyleft/copyleft.fr.html)
 
+5) question: Que sont les Creatives Commons ?
+	- Ce sont des licences qui protègent les droits d'auteur et la libre circulation du contenu. (source: https://fr.wikipedia.org/wiki/Licence_Creative_Commons)
+
 
 
