@@ -33,9 +33,14 @@
 8) question: Qui est Steve Wozniak ?
 	- Il est un informaticien et électronicien américain cofondateur de la société Apple Computer. (source: https://fr.wikipedia.org/wiki/Steve_Wozniak)
 
-9) question: D'où vient l'expression "bug informatique" ? Qui est Aaron Swartz ?
+9) question: D'où vient l'expression "bug informatique" ?
 	- bug informatique: origine provenant des insectes qui grillaient entre les lampes des vieux ordinateurs des années 1945. (source: http://www.presse-citron.net/anecdote-connaissez-vous-lorigine-du-bug-informatique/)
+
+10) question:  Qui est Aaron Swartz ?
 	- Aaron Swartz: Il était un informaticien américain, écrivain, meneur politique et militant de l'Internet. (source: https://fr.wikipedia.org/wiki/Aaron_Swartz)
+
+11) question: Qu’est-ce que le projet GNU ?
+	- Le Projet GNU a été démarré pour crer un système d'exploitation complet utilisant du logiciel libre. (source: https://fsfe.org/freesoftware/basics/gnuproject.fr.html)
 
 
 
