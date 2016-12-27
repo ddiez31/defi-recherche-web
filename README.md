@@ -42,5 +42,18 @@
 11) question: Qu’est-ce que le projet GNU ?
 	- Le Projet GNU a été démarré pour crer un système d'exploitation complet utilisant du logiciel libre. (source: https://fsfe.org/freesoftware/basics/gnuproject.fr.html)
 
+12) question: Quelles sont les différences entre le Http et le Https ?
+	- http: protocole simple
+	- https: protocole sécurisé
+( source: http://www.culture-informatique.net/cest-quoi-difference-http-https/)
+
+13) question: Qui est Richard Stallman ?
+	-Il est un programmeur et militant du logiciel libre et a lancé le projet GNU en 1983. (source: https://fr.wikipedia.org/wiki/Richard_Stallman)
+
+14) question: Comment fonctionnent les bang de Duck Duck Go ?
+	- C'est un mot clé qui permet de lancer, directement depuis le moteur de recherche DDG, une recherche sur son site perso. (source: http://korben.info/bang-duckduckgo.html)
+
+
+
 
 
