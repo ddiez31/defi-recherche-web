@@ -72,9 +72,9 @@ développements ?
 	- Quels sont les différents services d'emailing disponibles: Newsletter, email d'annonce, email communiqué de presse (source: http://www.insidedaweb.com/emailing-direct-mail-marketing/differents-types-emailing-communicationnels/)
 	- Pour le client j'utiliserai la newsletter qui permet un envoi régulier et en masse à ses membres.
 
-20) question: Quelle est votre adress IP actuelle ? Et celle de votre smartphone ?
-	- Quelle est votre adress IP actuelle ? 192.168.0.25
-	- Et celle de votre smartphone ? 192.168.0.38
+20) question: Quelle est votre adresse IP actuelle ? Et celle de votre smartphone ?
+	- Quelle est votre adresse IP actuelle: 192.168.0.25
+	- Et celle de votre smartphone: 192.168.0.38
 
 21) question: Qu’est-ce que le développement en cycle V ?
 	- Le développement en cycle V (en comparaison avec les méthodes dites agiles) est un modèle conceptuel de gestion de projet imaginé à la suite du problème de réactivité du modèle en cascade. Il permet, en cas d'anomalie, de limiter un retour aux étapes précédentes. (source: https://fr.wikipedia.org/wiki/Cycle_en_V)
@@ -141,6 +141,42 @@ développements ?
 40) question: Combien d’heures de vidéo sont mises en ligne chaque minute sur Youtube ?
 	- 400h. (source: http://www.webrankinfo.com/dossiers/youtube/chiffres-statistiques)
 
+41) question: Que sont les White Hat et les Black Hat ?
+	- White Hat: c'est un hacker éthique ou un expert en sécurité informatique qui réalise des tests d'intrusion et d'autres méthodes de test afin d'assurer la sécurité des systèmes d'information d'une organisation. (source: https://fr.wikipedia.org/wiki/White_hat)
+	- Black Hat: c'est un hacker mal intentionné, par opposition aux white hats. (source: https://fr.wikipedia.org/wiki/Black_hat)
+
+42) question: Qu’est-ce qu’une attaque DDoS ?
+	- C'est une attaque informatique ayant pour but de rendre indisponible un service, d'empêcher les utilisateurs légitimes d'un service de l'utiliser. (source: https://fr.wikipedia.org/wiki/Attaque_par_d%C3%A9ni_de_service)
+
+43) question: Quelles est l'adresse MAC de votre ordinateur ? Et de votre smartphone ?
+	- Quelle est l'adresse MAC de votre ordinateur: (cmd ifconfig / resultat HWaddr) c0:18:85:4c:92:9c
+	- Et celle de votre smartphone: f0:72:8c:ba:ea:06
+
+44) question: Trouvez 5 entreprises qui recrutent sur Toulouse un développeur web junior
+	- Inbenta France (https://www.indeed.fr/cmp/inbenta-France/jobs/D%C3%A9veloppeur-Web-Junior-76d583fb57f16bcb?q=Developpeur+Web)
+	- Synergie (https://www.keljob.com/offre/developpeur-web-junior-h-f-18995810)
+	- 
+
+45) question: Qui est Tim Berners-Lee ?
+	- Il est un citoyen britannique, principal inventeur du World Wide Web (WWW) au tournant des années 1990. En juillet 2004, il est anobli par la reine Élisabeth II pour ce travail et son nom officiel devient Sir Timothy John Berners-Lee. Depuis 1994, il préside le World Wide Web Consortium (W3C), organisme qu'il a fondé. (source: https://fr.wikipedia.org/wiki/Tim_Berners-Lee)
+
+46) question: Comment sont reliés les différents réseaux d'internet ?
+	- Par le réseau étendu WAN (source: https://fr.wikipedia.org/wiki/R%C3%A9seau_%C3%A9tendu)
+
+47) question: Qu’est-ce que KISS ?
+	- Il est utilisé comme principe de développement de logiciels, pour rappeler aux développeurs qu'un programme simple est plus facile à maintenir et à comprendre. (source: https://fr.wikipedia.org/wiki/Principe_KISS#En_informatique)
+
+48) question: Un antivirus est-il utile sous Windows ? Sous Mac? Sous Linux ?
+	- sous windows: oui
+	- sous mac: non
+	- sous linux: non
+	(source: http://www.spoogue.org/linux/index.html)
+
+49) question: En quoi consiste la méthode Pomodoro ? Avantages et inconvénients ?
+	- La philosophie derrière la technique de la tomate consiste à ne se consacrer pleinement qu’à une tâche à la fois. (source: http://www.etre-meilleur.com/gestion-du-temps/la-technique-pomodoro-ou-lart-de-gerer-son-temps-grace-a-une-tomate.html)
+
+50) question: Qu’est-ce qu’Amazon Web Services - AWS ?
+	- Amazon Web Services (AWS) est une plateforme de services de cloud sécurisée. (source: https://aws.amazon.com/fr/what-is-aws/)
 
 
 
