@@ -82,7 +82,32 @@ développements ?
 22) question: Les Hackers sont-ils des hors-la-loi ?
 	- Non car un hacker en sécurité informatique est un spécialiste qui recherche les moyens de contourner les protections logicielles et matérielles. Il peut vouloir signaler les failles trouvées au propriétaire du système concerné (dans une démarche d'amélioration de la sécurité de ce système), en tirer profit, les utiliser dans une démarche militante (on parle alors d'hacktivisme) ou simplement considérer le contournement (hacking) comme un défi1. (sources: https://fr.wikipedia.org/wiki/Hacker  /  https://fr.wikipedia.org/wiki/Hacker_%28s%C3%A9curit%C3%A9_informatique%29#Terminologie)
 
+23) question: Qui a inventé la souris ?
+	- La souris a été inventée en 1963 par Douglas Engelbart du Stanford Research Institute et présentée au public en 1968. (source: https://fr.wikipedia.org/wiki/Souris_(informatique))
 
+24) question: Qui est Margaret Hamilton ?
+	- Elle est une informaticienne et mathématicienne. Elle était directrice du département génie logiciel (« software engineering », terme de son invention1) du MIT Instrumentation Laboratory qui conçut le système embarqué du programme Apollo2.
+
+25) question: Retrouvez le code source de la mission Apollo 11. Décrivez le (langage, nb de collaborateurs, durée de la mission ...)
+	- Retrouvez le code source de la mission Apollo 11: (source: http://www.ibiblio.org/apollo/listings/Comanche055/  :  https://github.com/chrislgarry/Apollo-11)
+	- Décrivez le (langage, nb de collaborateurs, durée de la mission ...): langage AGC (source: https://atom.io/packages/language-agc), durée 8 jours 3 heures 18 minutes (source: http://alexandre.schwenck.pagesperso-orange.fr/anedoctes/chronoa11.htm  /  http://www.capcomespace.net/dossiers/espace_US/apollo/annexes/16_les_missions_apollo.htm  /  http://alexandre.schwenck.pagesperso-orange.fr/)
+
+26) question: Qu’est-ce que Agile Manifesto ?
+	- Le Manifeste agile est un texte rédigé par 17 experts du développement d'applications informatiques sous la forme de plusieurs méthodes dites agiles. Ces experts estimaient que le traditionnel cycle de développement en cascade ne correspondait plus aux contraintes et aux exigences des organisations en évolution rapide. (source: https://fr.wikipedia.org/wiki/Manifeste_agile)
+
+27) question: Trouvez un screenshot de la première version de Facebook
+	- http://www.creads.org/blog/wp-content/uploads/2010/08/premier-facebook.jpg
+
+28) question: Quelle est la répartition des systèmes d'exploitation pour les serveurs (uniquement) ?
+	- http://www.w3schools.com/browsers/browsers_os.asp
+
+29) question : Qu'est-ce que le load balancing ?
+	- En informatique, la répartition de charge (load balancing) est un ensemble de techniques permettant de distribuer une charge de travail entre différents ordinateurs d'un groupe. (source: https://fr.wikipedia.org/wiki/R%C3%A9partition_de_charge)
+
+30) question: Qu’est-ce que l’Open Source ?
+	- La désignation open source, ou « code source ouvert », s'applique aux logiciels (et s'étend maintenant aux œuvres de l'esprit) dont la licence respecte des critères précisément établis par l'Open Source Initiative, c'est-à-dire les possibilités de libre redistribution, d'accès au code source et de création de travaux dérivés. (source: https://fr.wikipedia.org/wiki/Open_source)
+
+	
 
 
 
