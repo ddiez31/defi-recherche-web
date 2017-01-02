@@ -107,7 +107,40 @@ développements ?
 30) question: Qu’est-ce que l’Open Source ?
 	- La désignation open source, ou « code source ouvert », s'applique aux logiciels (et s'étend maintenant aux œuvres de l'esprit) dont la licence respecte des critères précisément établis par l'Open Source Initiative, c'est-à-dire les possibilités de libre redistribution, d'accès au code source et de création de travaux dérivés. (source: https://fr.wikipedia.org/wiki/Open_source)
 
-	
+31) question: Qu’est-ce que le Bug Bounty ?
+	- Un bug bounty est un programme proposé par de nombreux sites web et développeurs de logiciel qui permet à des personnes de recevoir reconnaissance et compensation après avoir reporté des bugs, surtout ceux concernant des exploits et des vulnérabilités. Ces programmes permettent aux développeurs de découvrir et de corriger des bugs avant que le grand public en soit informé, évitant ainsi des abus. Les bugs bounty ont été mis en place par Facebook, Yahoo!, Google, Reddit, et Square. (source: https://fr.wikipedia.org/wiki/Bug_bounty)
+
+32) question: Qu'est-ce qu'une adresse IP v4 ? Pourquoi parle-t-on aussi d'adresse IP v6 ?
+	- adresse IP v4: IPv4 (Internet Protocol version 4) est la première version d'Internet Protocol (IP) à avoir été largement déployée, et qui forme encore en 2016 la base de la majorité des communications sur Internet, avec l'IPv6. Elle est décrite dans la RFC 791 de septembre 1981, remplaçant la RFC 7601, définie en janvier 1980. Chaque interface d'un hôte IPv4 se voit attribuer une ou plusieurs adresses IP codées sur 32 bits. Au maximum 4 294 967 296 (soit 232) adresses peuvent donc être attribuées simultanément en théorie (en pratique, un certain nombre ne sont pas utilisables). (source: https://fr.wikipedia.org/wiki/IPv4)
+	- adresse IP v6: L'adresse IPv6 est une adresse IP, dans la version 6 du protocole IP (IPv6). Une adresse IPv6 est longue de 128 bits, soit 16 octets, contre 32 bits pour IPv4. On dispose ainsi d'environ 3,4×1038 adresses. Cela équivaut à un nombre illimité puisque pour saturer le système, il faudrait placer plus de 667 millions de milliards d'appareils connectés à internet sur chaque millimètre carré de surface terrestre. IPv6 a été principalement développé en réponse à la demande d'adresses Internet qu'IPv4 ne permettait pas de contenter. En effet, le développement rapide d'Internet a conduit à la pénurie du nombre d'adresses IPv4 disponibles. (source: https://fr.wikipedia.org/wiki/Adresse_IPv6)
+
+33) question: Combien coûte un serveur pour héberger mon site perso ?
+	- de gratuit à quelques dizaines d'euros par an. (source: http://www.scriptol.fr/creation-site-web/comparatif-hebergements-sites-web.php)
+
+34) question: Qu’est-ce que le Cowboy coding ?
+	- C'est un développement logiciel où les programmeurs ont l'autonomie sur le processus de développement. Cela comprend le contrôle du calendrier du projet, les langues, les algorithmes, les outils, les cadres et le style de codage.
+ (source: https://en.wikipedia.org/wiki/Cowboy_coding)
+
+35) question: Quelles sont les langages de programmation les plus plébiscités aujourd'hui ?
+ 	- Java, C, C++, Python, Visual Basic (source: http://www.tiobe.com/tiobe-index//)
+
+36) question: Quelles sont les différences entre un software open-source et un software free ?
+	- software open-source: il est libre de droit. (source: https://fr.wikipedia.org/wiki/Open_source)
+	- software free: il est gratuit. (source: https://fr.wikipedia.org/wiki/Free)
+
+37) question: Trouvez trois entreprises qui développent des solutions Free & OpenSource. Comment gagnent-elles de l’argent ?
+	- 3 entreprises: Joomla, Typo3, PimCore. (source: http://www.open-source-guide.com/)
+	- Comment gagnent-elles de l’argent: 
+
+38) question: Qui est Phil Zimmermann ?
+	- Il est un scientifique américain, créateur du Pretty Good Privacy (PGP), le logiciel de chiffrement de courrier électronique le plus utilisé au monde. (source: https://fr.wikipedia.org/wiki/Philip_Zimmermann)
+
+39) question: Qu’est-ce que le W3C ?
+	- C'est un organisme de standardisation à but non lucratif, fondé en octobre 1994 chargé de promouvoir la compatibilité des technologies du World Wide Web telles que HTML5, HTML, XHTML, XML, RDF, SPARQL, CSS, XSL, PNG, SVG et SOAP. (source: https://fr.wikipedia.org/wiki/World_Wide_Web_Consortium)
+
+40) question: Combien d’heures de vidéo sont mises en ligne chaque minute sur Youtube ?
+	- 400h. (source: http://www.webrankinfo.com/dossiers/youtube/chiffres-statistiques)
+
 
 
 
