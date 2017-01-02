@@ -178,6 +178,96 @@ développements ?
 50) question: Qu’est-ce qu’Amazon Web Services - AWS ?
 	- Amazon Web Services (AWS) est une plateforme de services de cloud sécurisée. (source: https://aws.amazon.com/fr/what-is-aws/)
 
+51) question: Qui est Sundar Pichai ?
+	- Il est un dirigeant d'entreprise indo-américain, président-directeur général de Google depuis le 2 octobre 2015 à la suite de la restructuration de Google et la création de la nouvelle société Alphabet. (source: https://fr.wikipedia.org/wiki/Sundar_Pichai)
+
+52) question: Quelle est la répartition des systèmes d'exploitation pour les pc personnels ?
+	- http://www.zdnet.fr/actualites/chiffres-cles-les-systemes-d-exploitation-sur-pc-39790131.htm
+
+53) question: Qu'est-ce qu'une Cheatsheet ?
+	- En informatique, la cheatsheet, littéralement « feuille de triche », est très souvent utilisée pour avoir une panoplie des mots-clefs les plus utiles sous la main. Ce document est construit pour être très court (une feuille A4 habituellement) et nécessite de connaitre les bases du sujet qu'il traite. (source: https://fr.wikipedia.org/wiki/Antis%C3%A8che#Domaine_informatique)
+
+54) question: Combien de requêtes y-a-t-il sur Google toutes les minutes ?
+	- au moins 3,8 millions de requêtes par minute. (source: http://www.webrankinfo.com/dossiers/google/chiffres-cles)
+
+55) question: Qu’est-ce que les joies du code ?
+	- Ce sont des images animés GIF humoristiques pour les développeurs. (source: http://lesjoiesducode.fr/)
+
+56) question: Qui sont Larry Page et Sergey Brin ?
+	- Larry Page: il est un informaticien américain, cofondateur du site internet et moteur de recherche Google avec Sergueï Brin. Il est actuellement directeur général de l'entreprise Alphabet Inc., dont Google est une filiale. (source: https://fr.wikipedia.org/wiki/Larry_Page)
+	- Sergey Brin: il est un entrepreneur américain d'origine russe, cofondateur avec Larry Page de la société Google. (source: https://fr.wikipedia.org/wiki/Sergey_Brin)
+
+57) question: Convertissez en binaire 2, 5, 12, 25, 512
+	- 2: 10
+	- 5: 101
+	- 12: 1100
+	- 25: 11001
+	- 512: 1000000000
+	(source: http://sebastienguillon.com/test/javascript/convertisseur.html)
+
+58) question: Convertissez en hexadécimal 2, 5, 12, 25, 512
+	- 2: 2
+	- 5: 5
+	- 12: C
+	- 25: 19
+	- 512: 200
+	(source: http://sebastienguillon.com/test/javascript/convertisseur.html)
+
+59) question: Convertissez du binaire vers le système “classique” (base 10) 100, 1011, 11111, 11110110101
+	- 10: 2
+	- 1011: 11
+	- 11111: 31
+	- 11110110101: 1973
+	(source: http://sebastienguillon.com/test/javascript/convertisseur.html)
+
+60) question: Quelles sont les nouveautés apportées par le HTML 5 ?
+	- L’allègement du code HTML.
+	- De nouvelles balises sémantiques.
+	- Les balises multimédias.
+	- Des formulaires améliorés.
+	( source: http://integrateurinformatique.com/les-nouveautes-apportees-par-le-html5/)
+
+61) question: Qu’est-ce que ECMAScript 2015 ?
+	- ECMAScript est un ensemble de normes concernant les langages de programmation de type script et standardisées par Ecma International dans le cadre de la spécification ECMA-262. Il s'agit donc d'un standard, dont les spécifications sont mises en œuvre dans différents langages de script, comme JavaScript ou ActionScript, ainsi qu'en C++ (norme 2011). C'est un langage de programmation orienté prototype.
+	(source: https://fr.wikipedia.org/wiki/ECMAScript  /  http://www.ecma-international.org/ecma-262/6.0/)
+
+62) question: Quelles nouveautés par rapport à la version précédente? Quelles différences avec ES 6 ?
+	- Arguments par défaut
+	- classes
+	- Import / exporte avec les modules
+	- Variables locales
+	- strings
+	- Arrow function
+	- Promises
+	- Maps
+	(source: http://webiose.com/2015/01/nouveautes-ecmascript-6/  /  https://formationjavascript.com/formation-javascript-es6/)
+
+63) question: Quelles sont les différences entre application native, application hybride, application cross-platform et web application ?
+	- source: http://www.mobizel.com/2015/02/webapp-application-hybride-native-quelle-est-la-difference/  /  http://www.appsolute.fr/natives-web-ou-hybrides-que-choisir/
+
+64) question: Qu’est-ce que xkcd ?
+	- C'est une bande dessinée en ligne créée par Randall Munroe, un ancien consultant sur les robots à la NASA. L'auteur la définit comme « un webcomic sarcastique qui parle de romance, de maths et de langage ». (source: https://fr.wikipedia.org/wiki/Xkcd)
+
+65) question: Qu’est-ce que Mr Robot ?
+	- C'est une série télévisée autour de la sécurité informatique. (source: https://fr.wikipedia.org/wiki/Mr._Robot_%28s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e%29)
+
+66) question: Qu’est-ce que OpQuast ?
+	- Opquast reporting est un outil d'audit de la qualité et de l'accessibilité des sites Web des sites Web. (source: https://reporting.opquast.com/fr/faq/)
+
+67) question: Quelles sont les communautés de dev de St-Go?
+	- http://www.dataxy.fr/index.html
+	- Réseau Pyramide: http://www.midipyrenees.fr/Saint-Gaudens,5585
+	- http://www.sandrolabs.com/index.php
+
+68) question: Quels sont les prochains événements tech sur St-Go?
+	- 
+
+69) question: Quelles sont les différences entre un client web et un serveur web ? Donnez 3 exemples de chaque
+	- client web: c'est un logiciel conçu pour se connecter à un serveur HTTP. Dans le cas le plus courant, il s'agit d'un navigateur Web. (source: https://fr.wikipedia.org/wiki/Client_HTTP)
+	- serveur web: c'est un serveur informatique utilisé pour publier des sites web sur Internet ou un intranet. L'expression « serveur Web » désigne également le logiciel utilisé sur le serveur pour exécuter les requêtes HTTP, le protocole de communication employé sur le World Wide Web. (source: https://fr.wikipedia.org/wiki/Serveur_web)
+
+
+
 
 
 
