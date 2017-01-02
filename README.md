@@ -53,6 +53,36 @@
 14) question: Comment fonctionnent les bang de Duck Duck Go ?
 	- C'est un mot clé qui permet de lancer, directement depuis le moteur de recherche DDG, une recherche sur son site perso. (source: http://korben.info/bang-duckduckgo.html)
 
+15) question: Qui est Marissa Mayer ?
+	- Elle est une informaticienne et chef d'entreprise américaine. Elle occupe le poste de PDG de Yahoo! après 13 ans chez Google en tant que vice-présidente responsable des services de cartographie et de géolocalisation. (source: https://fr.wikipedia.org/wiki/Marissa_Mayer)
+
+16) question: Qu’est-ce qu’une attaque “brute force” ?
+	- Une attaque par force brute, ou attaque par exhaustivité, est une méthode utilisée par les pirates et en cryptanalyse pour découvrir le mot de passe ou la clef. Exhaustivité car il s'agit d'essayer toutes les combinaisons possibles ! (source: https://openclassrooms.com/courses/eviter-les-attaques-par-force-brute)
+
+17) question: Qui est Linus Torvalds ? Quels sont ses plus grands
+développements ?
+	- Qui est Linus Torvalds: Il est un informaticien américano-finlandais.
+	- Quels sont ses plus grands développements: création en 1991 du noyau Linux dont il continue de diriger le développement et création du logiciel de gestion de versions Git.
+	(source: https://fr.wikipedia.org/wiki/Linus_Torvalds)
+
+18) question: Combien coûte un nom de domaine ?
+	- De quelques dizaines à quelques centaines d'euros par an. (source: http://www.mesnoms.com/nom_domaine.php?nom-domaine-cn=cout)
+
+19) question: Quels sont les différents services d'emailing disponibles ? Un client veut envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?
+	- Quels sont les différents services d'emailing disponibles: Newsletter, email d'annonce, email communiqué de presse (source: http://www.insidedaweb.com/emailing-direct-mail-marketing/differents-types-emailing-communicationnels/)
+	- Pour le client j'utiliserai la newsletter qui permet un envoi régulier et en masse à ses membres.
+
+20) question: Quelle est votre adress IP actuelle ? Et celle de votre smartphone ?
+	- Quelle est votre adress IP actuelle ? 192.168.0.25
+	- Et celle de votre smartphone ? 192.168.0.38
+
+21) question: Qu’est-ce que le développement en cycle V ?
+	- Le développement en cycle V (en comparaison avec les méthodes dites agiles) est un modèle conceptuel de gestion de projet imaginé à la suite du problème de réactivité du modèle en cascade. Il permet, en cas d'anomalie, de limiter un retour aux étapes précédentes. (source: https://fr.wikipedia.org/wiki/Cycle_en_V)
+
+22) question: Les Hackers sont-ils des hors-la-loi ?
+	- Non car un hacker en sécurité informatique est un spécialiste qui recherche les moyens de contourner les protections logicielles et matérielles. Il peut vouloir signaler les failles trouvées au propriétaire du système concerné (dans une démarche d'amélioration de la sécurité de ce système), en tirer profit, les utiliser dans une démarche militante (on parle alors d'hacktivisme) ou simplement considérer le contournement (hacking) comme un défi1. (sources: https://fr.wikipedia.org/wiki/Hacker  /  https://fr.wikipedia.org/wiki/Hacker_%28s%C3%A9curit%C3%A9_informatique%29#Terminologie)
+
+
 
 
 
